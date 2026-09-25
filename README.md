@@ -1,4 +1,4 @@
-![PilotDeck](banner.png)
+![PilotDeck](banner.jpg)
 # PilotDeck
 
 AI-powered SEO and GEO platform. We help brands get discovered
