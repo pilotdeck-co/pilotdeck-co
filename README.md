@@ -1,16 +1,16 @@
-## Hi there 👋
+![PilotDeck](banner.png)
+# PilotDeck
 
-<!--
-**pilotdeck-co/pilotdeck-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-powered SEO and GEO platform. We help brands get discovered
+on Google and across AI search — ChatGPT, Perplexity, Gemini.
+## What we do
 
-Here are some ideas to get you started:
+- Find the questions your buyers actually ask AI assistants
+- Publish content built to be cited, not just ranked
+- Track visibility across search engines and AI answers
+## Find us
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: [pilotdeck.co](https://pilotdeck.co)
+- X: [@pilotdeckco](https://x.com/pilotdeckco)
+- YouTube: [@pilotdeck](https://www.youtube.com/@pilotdeck)
+- Instagram: [pilotdeck.co](https://www.instagram.com/pilotdeck.co)
